@@ -25,3 +25,8 @@ simulate(0.95, 2)
 simulate(0.95, 3)
 simulate(0.9, 2)
 simulate(0.9, 3)
+
+# Probability that unupdated node is on >= 2 block invalid fork with 95.0% threshold: 1.22%
+# Probability that unupdated node is on >= 3 block invalid fork with 95.0% threshold: 0.17%
+# Probability that unupdated node is on >= 2 block invalid fork with 90.0% threshold: 4.81%
+# Probability that unupdated node is on >= 3 block invalid fork with 90.0% threshold: 1.28%
