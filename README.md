@@ -20,4 +20,6 @@ Probability that unupdated node is on >= 2 block invalid fork with 95.0% thresho
 Probability that unupdated node is on >= 3 block invalid fork with 95.0% threshold: 0.17%
 Probability that unupdated node is on >= 2 block invalid fork with 90.0% threshold: 4.81%
 Probability that unupdated node is on >= 3 block invalid fork with 90.0% threshold: 1.28%
+Probability that unupdated node is on >= 2 block invalid fork with 85.0% threshold: 10.45%
+Probability that unupdated node is on >= 3 block invalid fork with 85.0% threshold: 4.13%
 ```
