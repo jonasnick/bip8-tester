@@ -23,3 +23,7 @@ Probability that unupdated node is on >= 3 block invalid fork with 90.0% thresho
 Probability that unupdated node is on >= 2 block invalid fork with 85.0% threshold: 10.45%
 Probability that unupdated node is on >= 3 block invalid fork with 85.0% threshold: 4.13%
 ```
+
+## more simulations
+
+https://gist.github.com/ajtowns/fbcf30ed9d0e1708fdc98a876a04ff69#file-repeated_trials-py
